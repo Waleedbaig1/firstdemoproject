@@ -3,3 +3,5 @@ Hello World
 Demo World
 
 changes in gitHub
+
+changes with smart git
