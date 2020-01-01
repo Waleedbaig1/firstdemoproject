@@ -42,6 +42,12 @@ CLICK FOR GOOGLE [Google](www.google.com).
 
       # NESTED LIST
        
-     1. QUAID-E-AZAM
-        - ALLAMAIQBAL
-        - CH RAHMAT ALI 
+   1. QUAID-E-AZAM
+      - ALLAMAIQBAL
+      - CH RAHMAT ALI 
+        
+       # TASK LIST
+        
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request     
